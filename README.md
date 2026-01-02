@@ -58,19 +58,6 @@ I enjoy building **responsive, user-focused web applications**, writing clean an
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Musakalamz&show_icons=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Musakalamz" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musakalamz&layout=compact" />
-</p>
-
----
-
 ## 🤝 Let’s Connect
 
 - 💼 **LinkedIn:** https://www.linkedin.com/in/musa-ogunsolu/
