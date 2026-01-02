@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Musa+Adebayo+Ogunsolu+%F0%9F%91%8B;Software+Engineer+%7C+Frontend+Developer;Building+Clean+%26+Scalable+Web+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Musa+Adebayo+Ogunsolu+👋;Software+Engineer+%7C+Frontend+Developer;Building+Clean%2C+Scalable+Web+Applications" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -10,32 +10,35 @@
   <a href="https://www.linkedin.com/in/musa-ogunsolu/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
+  <a href="https://x.com/Musakalamz">
+    <img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x" />
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m a **Software Engineer and Frontend Developer** with **2+ years of hands-on experience** gained through intensive, project-based training at **ALX Africa**.
+I’m a **Software Engineer** and **Frontend Developer** with **2+ years of hands-on experience**, gained through intensive, project-based training at **ALX Africa**.
 
 I enjoy building **responsive, user-focused web applications**, writing clean and maintainable code, and continuously improving my technical and professional skills.
 
-- 🌍 Based in **Abeokuta, Nigeria**
+- 📍 Based in **Abeokuta, Nigeria**
 - 🎓 ALX Software Engineering, Frontend, ProDev & Professional Foundations
-- 🚀 Focused on **modern web technologies**
-- 🤝 Open to collaboration and learning opportunities
+- 🚀 Passionate about modern web technologies
+- 🤝 Open to collaboration and growth opportunities
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
+### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 
-### Software Engineering
+### ⚙️ Software Engineering
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -45,17 +48,17 @@ I enjoy building **responsive, user-focused web applications**, writing clean an
 
 ## 🚀 Featured Project
 
-### 🎬 Movie Database Web App
-🔗 **Live:** https://moviedbe.netlify.app/
+### 🎬 Movie Database Web Application
+🔗 **Live Demo:** https://moviedbe.netlify.app/
 
-- Built a responsive movie browsing application
-- Integrated external APIs for dynamic data
-- Focused on performance, clean UI, and usability
-- Implemented reusable components and modern frontend practices
+- Built a responsive and interactive movie browsing application
+- Integrated external APIs for dynamic movie data
+- Focused on performance, usability, and clean UI design
+- Implemented reusable components and modern frontend best practices
 
 ---
 
-## 📊 GitHub Stats (Animated)
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Musakalamz&show_icons=true&theme=tokyonight" height="165" />
@@ -70,9 +73,10 @@ I enjoy building **responsive, user-focused web applications**, writing clean an
 
 ## 🤝 Let’s Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/musa-ogunsolu/
-- 🌐 Portfolio: https://me.dev
-- 📧 Email: musaogunsolu@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/musa-ogunsolu/
+- 🐦 **X (Twitter):** https://x.com/Musakalamz
+- 🌐 **Portfolio:** https://me.dev
+- 📧 **Email:** musaogunsolu@gmail.com
 
 ---
 
