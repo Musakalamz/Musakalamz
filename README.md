@@ -1,6 +1,6 @@
-<!-- Animated Header -->
-p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&line👋%2C+I'm+Musa+Adebayo+Ogunsolu+%F0%9F%91%8B;Software+Engineer+%7C+Frontend+Developer;Building+Clean+%26+Scalable+Web+Apps" alt="Typing SVG" />
+<!-- Animated Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Musa+Adebayo+Ogunsolu+👋;Software+Engineer+%7C+Frontend+Developer;Building+Clean%2C+Scalable+Web+Applications" alt="Typing SVG" />
 </p>
 
 <p align="center">
